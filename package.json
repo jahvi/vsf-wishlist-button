@@ -1,0 +1,14 @@
+{
+  "name": "vue-storefront-wishlist-button",
+  "version": "1.0.0",
+  "description": "Custom add to wishlist button with floating hearts animation",
+  "keywords": [
+    "vue-storefront",
+    "wishlist"
+  ],
+  "author": "Javier Villanueva <javiervd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue-storefront/core": "^1.7.0"
+  }
+}
